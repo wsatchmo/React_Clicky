@@ -17,6 +17,10 @@ body{
   background-size: cover;
 }
 
+html{
+  background-color: black;
+}
+
 .card-names {
   font-size: 18px;
 }
