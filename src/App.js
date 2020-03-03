@@ -23,17 +23,15 @@ class App extends Component {
 
   // Click handler
   handleSaveClick = id => {
-    console.log("CLICKED: ", this.state.characters);
-    console.log("Id: ", parseInt(id.currentTarget.id.trim()));
+    //console.log("CLICKED: ", this.state.characters);
+    //console.log("Id: ", parseInt(id.currentTarget.id.trim()));
     //Get that id
     let currentId = parseInt(id.currentTarget.id.trim());
     // Character's state
     const tyle = this.state.characters;
     // Match clicked id to characters
     const tileClicked = tyle.filter(tile => tile.id === currentId);
-    //WHY THE F$%^ IS THIS NOT FILTERING RIGHT?@?!!>
-    
-    console.log("Is tile clicked?: ", tileClicked);
+    //console.log("Is tile clicked?: ", tileClicked);
 
     // If tile isn't clicked, it is now
     if (!tileClicked[0].clicked) {
@@ -117,9 +115,14 @@ class App extends Component {
               id={id}
               key={id}
             >
-              <CardImg width="100%" id={id} src={image} alt="Card image cap"/>
+              <CardImg width="100%" alt="Card image cap"
+                id={id} 
+                src={image} 
+              />
               <CardBody id={id}>
-                <CardTitle className="text-center card-names"><strong className="fighter">{name}</strong></CardTitle>
+                <CardTitle className="text-center card-names">
+                  <strong className="fighter">{name}</strong>
+                </CardTitle>
               </CardBody> 
             </Card>
           ))}
