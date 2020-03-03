@@ -4,7 +4,7 @@
 + How it works +
 ```
 
-  - Users select a character to begin, but must not select the same character twice. The score counter will keep their score, up to the maximum of sixteen (there are sixteen possible character choices); if the user choses the same character twice they lose the round and their game starts over. Depending on the game's current state, the message will read one of three variants:
+  - Users select a character to begin, but must not select the same character twice. The score counter will keep their score, up to the maximum of sixteen (there are sixteen possible character choices); if the user choses the same character twice they lose the round and their game starts over. Depending on the game's current state, the message will read one of four variants:
 
      * Not playing yet: "Choose your fighter - Defeat all challengers!"
 
