@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.jumbo{
+  opacity: .80;
+}
+
+#jumbo-style{
+  background-color: rgb(36, 36, 36);
+}
+
+body{
+  background-image: url("https://wallpapercave.com/wp/INbbeXh.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-names {
+  font-size: 18px;
+}
+
+.score-right{
+  margin: 10px;
+  left: 20px;
+  font-family: 'Trade Winds';
+}
+
+.score-left{
+  margin: 10px;
+  right: 20px;
+  font-family: 'Trade Winds';
+}
+
+.main-text{
+  font-family: 'Trade Winds';
+  color: rgb(241, 78, 28);
+  font-size: 35px;
+  margin-left: 10px;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.card-whole{
+  margin: 10px;
+}
+
+.fighter{
+  font-family: 'Trade Winds';
+}

@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Akuma",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/8/82/Character_Select_Akuma_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113012042",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Balrog",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/3/3e/Character_Select_Balrog_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113141646",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "M. Bison",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/3/3b/Character_Select_Bison_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113143841",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Blanka",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/f/ff/Blanka-udon-select.jpg/revision/latest/scale-to-width-down/165?cb=20091113011311",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Cammy",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/e/e1/Character_Select_Cammy.jpg/revision/latest/scale-to-width-down/165?cb=20080824013151",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Chun Li",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/0/03/Character_Select_Chun_Li_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113143916",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Dhalsim",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/9/90/Character_Select_Dhalsim_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113115458",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "E. Honda",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/f/f8/Character_Select_E_Honda_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113115532",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Fei Long",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/7/71/Character_Select_Fei_Long_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113115557",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Guile",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/7/70/Character_Select_Guile_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113004426",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "T. Hawk",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/0/03/Character_Select_T_Hawk_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113115625",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Ken",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/c/c6/Character_Select_Ken_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113005505",
+        "clicked": false
+    },
+    {
+      "id": 13,
+      "name": "Ryu",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/6/65/Character_Select_Ryu_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113143945",
+        "clicked": false
+    },
+    {
+      "id": 14,
+      "name": "Sagat",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/d/d9/Character_Select_Sagat_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113010442",
+        "clicked": false
+    },
+    {
+      "id": 15,
+      "name": "Vega",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/1/11/Character_Select_Vega_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113144013",
+        "clicked": false
+    },
+    {
+      "id": 16,
+      "name": "Zangeif",
+      "image":
+        "https://vignette.wikia.nocookie.net/streetfighter/images/5/57/Character_Select_Zangief_by_UdonCrew.jpg/revision/latest/scale-to-width-down/165?cb=20091113115652",
+        "clicked": false
+    }
+]
+  
